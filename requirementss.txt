@@ -5,3 +5,4 @@ seaborn
 numpy
 yfinance
 plotly
+scikit-learn
